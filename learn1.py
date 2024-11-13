@@ -16,3 +16,7 @@ p = np.power(a,[2,3,3,3,4])
 print(p)
 
 print('Hello')
+# power
+# modulos
+# percentage
+
