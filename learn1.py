@@ -2,7 +2,7 @@
 # import numpy as np
 # a = np.array([10,20,30,40,50])
 # print('Result A:',a)
-  
+   
 
 # import numpy as np
 # d = np.dtype([('name', 'S20'), ('perc', float)])
